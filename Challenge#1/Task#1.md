@@ -5,10 +5,6 @@ The goal of this task is to introduce students to **PowerShell-based attack dete
 
 ---
 
-## **Video Tutorial**
-[![Watch the video](https://img.youtube.com/vi/OO7LqeBjrYE/hqdefault.jpg)](https://www.youtube.com/watch?v=OO7LqeBjrYE)
-
-
 ## **Lab Setup**
 ### **Requirements**
 - **System:** Windows 10/11 or Windows Server 2019/2022  
